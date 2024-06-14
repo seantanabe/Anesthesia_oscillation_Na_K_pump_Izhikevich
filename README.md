@@ -1,6 +1,6 @@
 # Anesthesia_oscillation_Na_K_pump_Izhikevich
 
-Simulation of anesthesia related brain slow oscillations by controlling Na+/K+-ATPase pump.
+Simulating anesthesia-related brain slow oscillations by controlling the Na+/K+-ATPase pump using Izhikevich neurons.
 
 Similar mechanism to models used in: 
 

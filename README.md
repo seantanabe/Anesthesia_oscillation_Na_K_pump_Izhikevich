@@ -1,6 +1,6 @@
 # Anesthesia_oscillation_Na_K_pump_Izhikevich
 
-
+Simulation of anesthesia related brain slow oscillations by controlling Na+/K+ pump 
 
 ![git_fig0](https://github.com/seantanabe/Anesthesia_oscillation_Na_K_pump_Izhikevich/assets/170565753/84dfe033-2d41-42d4-84a1-779a644fc979)
 

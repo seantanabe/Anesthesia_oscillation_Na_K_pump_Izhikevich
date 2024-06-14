@@ -12,3 +12,6 @@ Joo et al. 2021's "Network Model With Reduced Metabolic Rate Predicts Spatial Sy
 
 
 ![git_fig1](https://github.com/seantanabe/Anesthesia_oscillation_Na_K_pump_Izhikevich/assets/170565753/e3b67ce4-f44d-4a8c-a0ce-b283a90c0fda)
+
+
+![git_fig2](https://github.com/seantanabe/Anesthesia_oscillation_Na_K_pump_Izhikevich/assets/170565753/c5bcfd02-5949-4eb4-a8fc-ec80508c3ccc)

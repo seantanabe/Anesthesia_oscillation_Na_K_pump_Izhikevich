@@ -1,4 +1,4 @@
-# Anesthesia_oscillation_Na_K_pump_Izhikevich
+# Anesthesia_oscillation_Na_K_pump_Izhikevich_group
 
 Simulating anesthesia-related brain slow oscillations by controlling the Na+/K+-ATPase pump. Using Izhikevich neurons, I also applied Izhikevich groups to understand the intrinsic information content of the wakefulness vs. anesthetic state. The scripts include several other unpublished analyses.
 
